@@ -1,4 +1,4 @@
-# VDMM: Physics-Informed Machine Learning for Pit Mapping
+# VDMM: Physics-informed machine learning for mapping pitting corrosion
 
 ---
 
